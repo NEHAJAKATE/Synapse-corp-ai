@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "variant": "public",
+  "privacy": "plain-paths",
+  "engineVersion": "v5",
+  "scoredFrom": "9a94c8ac17c71ad42ada1ee1218d3701083db29c",
+  "repo": {
+    "name": "NEHAJAKATE/Synapse-corp-ai",
+    "commit": "9a94c8ac17c71ad42ada1ee1218d3701083db29c"
+  },
+  "counts": {
+    "files": 42,
+    "edges": 36,
+    "clusters": 3,
+    "masters": 3
+  },
+  "graphFingerprint": "fefd723f148f2cc0",
+  "fileHashes": {
+    "structure.ndjson": "fefd723f148f2cc098bdefdb0924198bb4972a0acff4f2d6c71766ac7c3dc2ba",
+    "AGENTS.block.md": "bf46f2c78a38ede13f399ab3f23734bdac55c50f104fa3153c155e8aabf6e593"
+  },
+  "benchmark": {
+    "standard": "context-trust-level",
+    "url": "https://contextbenchmark.com",
+    "note": "CTL is measured, never hardcoded; see the published run."
+  },
+  "ownership": {
+    "owner": "repo",
+    "license": "inherits-repo",
+    "generator": "spiderbrain"
+  },
+  "attribution": null
+}
