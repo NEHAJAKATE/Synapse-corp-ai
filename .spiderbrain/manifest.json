@@ -3,10 +3,10 @@
   "variant": "public",
   "privacy": "plain-paths",
   "engineVersion": "v5",
-  "scoredFrom": "9a94c8ac17c71ad42ada1ee1218d3701083db29c",
+  "scoredFrom": null,
   "repo": {
     "name": "NEHAJAKATE/Synapse-corp-ai",
-    "commit": "9a94c8ac17c71ad42ada1ee1218d3701083db29c"
+    "commit": null
   },
   "counts": {
     "files": 42,
@@ -17,7 +17,7 @@
   "graphFingerprint": "fefd723f148f2cc0",
   "fileHashes": {
     "structure.ndjson": "fefd723f148f2cc098bdefdb0924198bb4972a0acff4f2d6c71766ac7c3dc2ba",
-    "AGENTS.block.md": "bf46f2c78a38ede13f399ab3f23734bdac55c50f104fa3153c155e8aabf6e593"
+    "AGENTS.block.md": "79d725dc1d6ab34134679c93b0cc2bf3fbf07ed890ccd693246bb185c51f9e4d"
   },
   "benchmark": {
     "standard": "context-trust-level",

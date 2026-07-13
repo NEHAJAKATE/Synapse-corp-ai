@@ -1,4 +1,4 @@
-<!-- spiderbrain:start v=1 fp=fefd723f148f2cc0 commit=9a94c8ac17c7 -->
+<!-- spiderbrain:start v=1 fp=fefd723f148f2cc0 commit=unknown -->
 ## Repo understanding (SpiderBrain)
 
 This repo carries a committed brain in `.spiderbrain/`: a deterministic, source-free map of its
@@ -25,5 +25,5 @@ The why (decisions, reasoning, always-fresh scores) is the cloud layer. Set SPID
 (get one at https://spiderbrain.ai/dashboard?tab=keys) and any command above also returns fresh
 scores, semantic search, and `why <path>` (the decision behind a file).
 
-Deterministic: regenerates byte-identically from commit 9a94c8ac17c7 (fingerprint fefd723f148f2cc0). Do not hand-edit between the markers.
+Deterministic: regenerates byte-identically from commit unknown (fingerprint fefd723f148f2cc0). Do not hand-edit between the markers.
 <!-- spiderbrain:end -->
