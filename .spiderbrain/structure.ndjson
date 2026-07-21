@@ -1,5 +1,8 @@
-{"blastRadius":0,"cluster":"shell","contentHash":"","dependsOn":[],"id":"PROJECT_DOCUMENTATION.md","isMaster":true,"kind":"content","layer":"theta","master":"PROJECT_DOCUMENTATION.md","role":""}
-{"blastRadius":0,"cluster":"shell","contentHash":"","dependsOn":[],"id":"README.md","isMaster":false,"kind":"content","layer":"gamma","master":"PROJECT_DOCUMENTATION.md","role":""}
+{"blastRadius":0,"cluster":"shell","contentHash":"","dependsOn":[],"id":".spiderbrain/AGENTS.block.md","isMaster":false,"kind":"content","layer":"gamma","master":".spiderbrain/manifest.json","role":""}
+{"blastRadius":0,"cluster":"shell","contentHash":"1f61d698c4cd","dependsOn":[],"id":".spiderbrain/manifest.json","isMaster":true,"kind":"config","layer":"theta","master":".spiderbrain/manifest.json","role":""}
+{"blastRadius":0,"cluster":"shell","contentHash":"","dependsOn":[],"id":"AGENTS.md","isMaster":false,"kind":"content","layer":"gamma","master":".spiderbrain/manifest.json","role":""}
+{"blastRadius":0,"cluster":"shell","contentHash":"","dependsOn":[],"id":"PROJECT_DOCUMENTATION.md","isMaster":false,"kind":"content","layer":"gamma","master":".spiderbrain/manifest.json","role":""}
+{"blastRadius":0,"cluster":"shell","contentHash":"","dependsOn":[],"id":"README.md","isMaster":false,"kind":"content","layer":"gamma","master":".spiderbrain/manifest.json","role":""}
 {"blastRadius":4,"cluster":"backend","contentHash":"123938be2325","dependsOn":["backend/agents/accountant_agent.py","backend/agents/atlas_ceo.py","backend/agents/ava_hr.py","backend/agents/developer_agent.py","backend/agents/marketing_agent.py","backend/agents/nova_cfo.py","backend/agents/orion_cto.py"],"id":"backend/agents/__init__.py","isMaster":false,"kind":"pycode","layer":"gamma","master":"backend/requirements.txt","role":""}
 {"blastRadius":5,"cluster":"backend","contentHash":"872aa0209ee2","dependsOn":["backend/services/llm_fallback.py"],"id":"backend/agents/accountant_agent.py","isMaster":false,"kind":"pycode","layer":"gamma","master":"backend/requirements.txt","role":""}
 {"blastRadius":5,"cluster":"backend","contentHash":"bc4e88f1b3b3","dependsOn":["backend/services/llm_fallback.py"],"id":"backend/agents/atlas_ceo.py","isMaster":false,"kind":"pycode","layer":"gamma","master":"backend/requirements.txt","role":""}
@@ -23,7 +26,9 @@
 {"blastRadius":2,"cluster":"backend","contentHash":"13475b09aaab","dependsOn":[],"id":"backend/services/pdf_parser.py","isMaster":false,"kind":"pycode","layer":"gamma","master":"backend/requirements.txt","role":""}
 {"blastRadius":4,"cluster":"backend","contentHash":"8fca6180993e","dependsOn":[],"id":"backend/services/supabase_client.py","isMaster":false,"kind":"pycode","layer":"gamma","master":"backend/requirements.txt","role":""}
 {"blastRadius":0,"cluster":"backend","contentHash":"5cb6c1dfc8c7","dependsOn":["backend/agents/ava_hr.py","backend/services/llm_fallback.py"],"id":"backend/test_gemini.py","isMaster":false,"kind":"pycode","layer":"gamma","master":"backend/requirements.txt","role":""}
-{"blastRadius":0,"cluster":"shell","contentHash":"","dependsOn":[],"id":"docker-compose.yml","isMaster":false,"kind":"content","layer":"gamma","master":"PROJECT_DOCUMENTATION.md","role":""}
+{"blastRadius":0,"cluster":"shell","contentHash":"a5a90a736913","dependsOn":[],"id":"canvas.json","isMaster":false,"kind":"config","layer":"gamma","master":".spiderbrain/manifest.json","role":""}
+{"blastRadius":0,"cluster":"shell","contentHash":"","dependsOn":[],"id":"canvas.md","isMaster":false,"kind":"content","layer":"gamma","master":".spiderbrain/manifest.json","role":""}
+{"blastRadius":0,"cluster":"shell","contentHash":"","dependsOn":[],"id":"docker-compose.yml","isMaster":false,"kind":"content","layer":"gamma","master":".spiderbrain/manifest.json","role":""}
 {"blastRadius":0,"cluster":"frontend","contentHash":"05695773da8e","dependsOn":[],"id":"frontend/app/dashboard/page.tsx","isMaster":false,"kind":"code","layer":"gamma","master":"frontend/app/globals.css","role":""}
 {"blastRadius":1,"cluster":"frontend","contentHash":"e11425bf0a37","dependsOn":[],"id":"frontend/app/globals.css","isMaster":true,"kind":"style","layer":"theta","master":"frontend/app/globals.css","role":""}
 {"blastRadius":0,"cluster":"frontend","contentHash":"1f88ab497938","dependsOn":[],"id":"frontend/app/interview/page.tsx","isMaster":false,"kind":"code","layer":"gamma","master":"frontend/app/globals.css","role":""}
@@ -40,3 +45,4 @@
 {"blastRadius":0,"cluster":"frontend","contentHash":"b78f5d0a0a44","dependsOn":[],"id":"frontend/postcss.config.js","isMaster":false,"kind":"config","layer":"gamma","master":"frontend/app/globals.css","role":""}
 {"blastRadius":0,"cluster":"frontend","contentHash":"00458c165cae","dependsOn":[],"id":"frontend/tailwind.config.ts","isMaster":false,"kind":"code","layer":"gamma","master":"frontend/app/globals.css","role":""}
 {"blastRadius":0,"cluster":"frontend","contentHash":"6e3daa245d26","dependsOn":[],"id":"frontend/tsconfig.json","isMaster":false,"kind":"config","layer":"gamma","master":"frontend/app/globals.css","role":""}
+{"blastRadius":0,"cluster":"shell","contentHash":"97a94c55650a","dependsOn":[],"id":"synganglion-v5.json","isMaster":false,"kind":"config","layer":"gamma","master":".spiderbrain/manifest.json","role":""}
